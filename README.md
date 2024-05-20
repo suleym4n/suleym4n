@@ -47,8 +47,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/suleym4n//tree/suleym4nn/output/snake.svg" alt="Snake animation" />
-
-###
