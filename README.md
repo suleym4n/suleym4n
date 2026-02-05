@@ -1,61 +1,89 @@
-<h1 align="center">Hi 👋 I'm Süleyman Uluyokuş</h1>
-<h3 align="center">Senior Full-Stack Developer | .NET Core & Angular</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suleym4n&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<h1>👋 Hi, I'm Süleyman</h1>
 
----
-
-### 🚀 About Me
-- 💼 **Full-Stack Developer** (≈4+ years)
-- 🏦 **Banking & Fintech** background  
-- ⚙️ Focused on **Clean Architecture, CI/CD, Production Stability**
-- 🧠 Strong experience with **high-traffic & mission-critical systems**
-
----
-
-### 🛠 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+Senior Full-Stack Developer • .NET Core • Angular • FinTech
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<a href="https://github.com/suleym4n">
+  <img src="https://img.shields.io/badge/GitHub-suleym4n-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 </p>
 
----
-
-### 🏢 Experience
-- **Innovance (Alternatif Bank)**  
-- **VeriPark**
-
-> Banking systems, credit applications, integrations, and high-availability services.
+</div>
 
 ---
 
-### 📈 GitHub Stats
+## 🧠 About Me
+
+- 💼 **4+ years** professional experience  
+- 🏦 Worked in **Banking & FinTech** environments  
+- 🧩 Strong focus on **clean architecture & production stability**  
+- 🚀 Backend-driven mindset, frontend when it makes sense  
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- .NET Core / ASP.NET Core  
+- Entity Framework Core  
+- RESTful APIs  
+- Clean Architecture  
+- CQRS (practical usage)
+
+### Frontend
+- Angular  
+- TypeScript  
+- RxJS  
+- SCSS  
+
+### Database
+- SQL Server  
+- Oracle (banking legacy systems)  
+
+### DevOps & Tools
+- CI/CD pipelines  
+- Git / GitFlow  
+- Docker (basic–intermediate)  
+- Postman / Swagger  
+
+---
+
+## 📌 Key Principles I Care About
+
+- 🔒 Data consistency & transaction safety  
+- 🧵 Deadlock-free database access  
+- 🧼 Readable, maintainable code  
+- ⚙️ Production-ready solutions (not demo code)
+
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suleym4n&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleym4n&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleym4n&layout=compact&theme=tokyonight"/>
-</p>
+> ⚠️ No Vercel, no paused deployment, no broken widgets.
 
 ---
 
-### 📫 Contact
-- 💼 LinkedIn: *(eklemek istersen link koy)*
-- ✉️ Email: *(opsiyonel)*
+## 📫 Contact
+
+- GitHub: **@suleym4n**
+- LinkedIn: *(add link if you want)*
+- Email: *(optional)*
 
 ---
 
-<p align="center">
-  <i>“Build systems that survive production.”</i>
-</p>
+<div align="center">
+
+**“If it works only in dev, it doesn’t work.”**
+
+</div>
