@@ -1,17 +1,19 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Süleyman</h1>
+<h1>🚀 Süleyman Uluyokuş</h1>
+
+<h3>Senior Full-Stack Developer</h3>
 
 <p>
-Senior Full-Stack Developer • .NET Core • Angular • FinTech
+.NET Core • Angular • FinTech • Banking Systems
 </p>
 
 <p>
 <a href="https://github.com/suleym4n">
   <img src="https://img.shields.io/badge/GitHub-suleym4n-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/suleyman-uluyokus/">
+  <img src="https://img.shields.io/badge/LinkedIn-Süleyman%20Uluyokuş-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
@@ -19,12 +21,24 @@ Senior Full-Stack Developer • .NET Core • Angular • FinTech
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
+
+> Backend-first engineer with strong production mindset.
 
 - 💼 **4+ years** professional experience  
-- 🏦 Worked in **Banking & FinTech** environments  
-- 🧩 Strong focus on **clean architecture & production stability**  
-- 🚀 Backend-driven mindset, frontend when it makes sense  
+- 🏦 Worked in **Banking & FinTech** (core banking, loan systems)  
+- 🧩 Focused on **clean architecture, stability & correctness**  
+- 🔥 Real-world systems > demo projects  
+
+---
+
+## 🏦 Industry Experience
+
+- Loan application flows  
+- OTP & customer onboarding  
+- Deadlock-free EF Core usage  
+- High-concurrency transactional systems  
+- Regulatory & audit-friendly designs  
 
 ---
 
@@ -33,9 +47,8 @@ Senior Full-Stack Developer • .NET Core • Angular • FinTech
 ### Backend
 - .NET Core / ASP.NET Core  
 - Entity Framework Core  
-- RESTful APIs  
 - Clean Architecture  
-- CQRS (practical usage)
+- CQRS (practical, not over-engineered)  
 
 ### Frontend
 - Angular  
@@ -45,45 +58,49 @@ Senior Full-Stack Developer • .NET Core • Angular • FinTech
 
 ### Database
 - SQL Server  
-- Oracle (banking legacy systems)  
+- Oracle (legacy banking systems)  
 
 ### DevOps & Tools
 - CI/CD pipelines  
 - Git / GitFlow  
-- Docker (basic–intermediate)  
+- Docker  
 - Postman / Swagger  
-
----
-
-## 📌 Key Principles I Care About
-
-- 🔒 Data consistency & transaction safety  
-- 🧵 Deadlock-free database access  
-- 🧼 Readable, maintainable code  
-- ⚙️ Production-ready solutions (not demo code)
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suleym4n&show_icons=true&hide_border=true&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleym4n&theme=dark&hide_border=true" />
 </p>
 
-> ⚠️ No Vercel, no paused deployment, no broken widgets.
+> If these don’t load once, refresh.  
+> They **do not require your Vercel**.
 
 ---
 
-## 📫 Contact
+## 🎯 What I Care About
 
-- GitHub: **@suleym4n**
-- LinkedIn: *(add link if you want)*
-- Email: *(optional)*
+- 🔒 Data consistency  
+- 🧵 Concurrency & deadlock prevention  
+- 🧼 Readable, maintainable code  
+- ⚙️ Production-ready solutions  
+
+---
+
+## 📫 Reach Me
+
+- 🐙 GitHub: https://github.com/suleym4n  
+- 💼 LinkedIn: https://www.linkedin.com/in/suleyman-uluyokus/  
 
 ---
 
 <div align="center">
 
-**“If it works only in dev, it doesn’t work.”**
+**“If it only works in development, it doesn’t work.”**
 
 </div>
