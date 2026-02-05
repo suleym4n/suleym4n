@@ -67,6 +67,8 @@ I care about systems that **don’t break at 3 AM**.
 
 - 🐙 GitHub → https://github.com/suleym4n  
 - 💼 LinkedIn → https://www.linkedin.com/in/suleyman-uluyokus/  
+- ✉️ Email → suleyman.uluyokus@hotmail.com
+
 
 ---
 
