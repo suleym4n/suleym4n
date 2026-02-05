@@ -23,7 +23,6 @@
 
 ## 🧠 Who Am I?
 
-> Backend-first engineer with strong production mindset.
 
 - 💼 **4+ years** professional experience  
 - 🏦 Worked in **Banking & FinTech** (core banking, loan systems)  
@@ -78,8 +77,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suleym4n&theme=dark&hide_border=true" />
 </p>
 
-> If these don’t load once, refresh.  
-> They **do not require your Vercel**.
 
 ---
 
@@ -100,7 +97,5 @@
 ---
 
 <div align="center">
-
-**“If it only works in development, it doesn’t work.”**
 
 </div>
